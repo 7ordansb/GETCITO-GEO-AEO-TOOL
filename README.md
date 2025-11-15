@@ -1,4 +1,4 @@
-# 🤖 AI Monitor - World's First Open Source AI Optimization (AIO) / Generative Engine Optimization (GEO) Tool
+# 🤖 GetCito - World's First Open Source AI Optimization (AIO) / Generative Engine Optimization (GEO) Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
@@ -7,7 +7,7 @@
 
 A comprehensive AI-powered monitoring and optimization tool for **AI Optimization (AIO)**, **Answer Engine Optimization (AEO)**, and **Generative Engine Optimization (GEO)**. Monitor your digital presence across AI-powered search engines and optimize your content for maximum visibility.
 
-![AI Monitor Preview](https://your-image-url-here.com/preview.png)
+![GetCito Preview](https://getcito.com/assets/images/template/ai-visibility-tracking.webp)
 
 ## 📚 Table of Contents
 
@@ -146,7 +146,7 @@ NEXTAUTH_SECRET=
 NODE_ENV=development
 
 # Optional: Custom App Settings
-NEXT_PUBLIC_APP_NAME=AI Monitor Free & Open Source AIO, AEO or GEO Tool
+NEXT_PUBLIC_APP_NAME=GetCito Free & Open Source AIO, AEO or GEO Tool
 NEXT_PUBLIC_APP_VERSION=10.0.0
 
 
@@ -306,3 +306,5 @@ Resources
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+
+[World's First Open Source Generative Engine Optimization Tool Powered by GetCito](https://getcito.com/)
